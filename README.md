@@ -21,6 +21,6 @@ https://www.gnu.org/licenses/licenses.html
 10. In this folder run the second script `python flatten_mboxes_structure.py`.  This will compress any lower mailboxes you did not run the first script in into single mailboxes within the lowest level folder you did run the first script in.  The reason for this is that Apple Mail creates all kinds of book-keeping directories.  You may get duplicate e-mails because I did not figure out how to tell which folders contained duplicates only for record keeping.
 11. The folder structure may now be imported by Thunderbird using the import option.
 
-More details descriptions of the scripts can be found in their comments.
+More details of the scripts and their usage can be found in the comments contained in the scripts.
 
 Report issues in the [issue tracker](https://github.com/gutow/MacMailtoThunderbird/issues).
