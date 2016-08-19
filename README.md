@@ -1,5 +1,5 @@
 # MacMailtoThunderbird
-Python scripts to help convert Mac Mail Export to Thunderbird mbox format.
+Python scripts to help convert Mac Mail Export to Thunderbird mbox format. These were written because none of the standard suggested procedures I found searching the web as of August 2016 worked with the output of Apple Mail 8.1 +.
 
 By Jonathan Gutow <gutow@uwosh.edu> August 15, 2016.
 Released under the GPL3 opensource license 
