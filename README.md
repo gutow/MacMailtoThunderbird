@@ -11,7 +11,7 @@ https://www.gnu.org/licenses/licenses.html
 
 1. Within Apple Mail select the mail folder or folders you wish to export.
 2. Using the right-click or "Message" menu select "Export...".
-3. In the "Save" dialog that appears click on "Options" and select "include folders".
+3. In the "Save" dialog that appears click on "Options" and select "include subfolders".
 4. Create a new folder to save into and then save.
 5. Copy these two scripts into the same folder for convenience or to a location easily specified on the command line.
 6. Open a terminal and use the "cd"  (change directory) command to navigate to where you stored the the export (e.g. `cd /Users/yourname/Documents/mail_export`).
